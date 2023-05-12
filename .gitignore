@@ -9,3 +9,16 @@ cache
 data
 diora-checkpoints
 log
+
+# scripts
+*.sh
+
+# data
+multinli_1.0
+snli_1.0
+
+# compiled executable
+EVALB/evalb
+
+# misc.
+slurm-*.out
